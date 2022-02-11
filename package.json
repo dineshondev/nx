@@ -46,6 +46,8 @@
     "@angular/service-worker": "~13.2.0",
     "@angular/upgrade": "~13.2.0",
     "@babel/helper-create-regexp-features-plugin": "^7.14.5",
+    "@cypress/react": "^5.12.4",
+    "@cypress/webpack-dev-server": "^1.8.1",
     "@cypress/webpack-preprocessor": "^5.9.1",
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
@@ -89,8 +91,8 @@
     "@storybook/core": "~6.4.12",
     "@storybook/react": "~6.4.12",
     "@svgr/webpack": "^6.1.2",
-    "@swc/core": "^1.2.146",
     "@swc-node/register": "^1.4.2",
+    "@swc/core": "^1.2.146",
     "@testing-library/react": "11.2.6",
     "@testing-library/react-hooks": "7.0.1",
     "@tippyjs/react": "^4.2.6",
@@ -130,7 +132,7 @@
     "copy-webpack-plugin": "^9.0.1",
     "core-js": "^3.6.5",
     "css-minimizer-webpack-plugin": "^3.1.1",
-    "cypress": "^9.1.0",
+    "cypress": "https://cdn.cypress.io/beta/npm/10.0.0/darwin-x64/10.0-release-8765e6481bbc3b8247bd6f64139b8d3676d84c89/cypress.tgz",
     "cytoscape": "^3.18.2",
     "cytoscape-dagre": "^2.4.0",
     "cytoscape-popper": "^2.0.0",
@@ -303,4 +305,3 @@
     "immer": "~9.0.6"
   }
 }
-

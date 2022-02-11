@@ -46,6 +46,11 @@
             "glob": "**/*.d.ts",
             "output": "/"
           },
+          {
+            "input": "packages/cypress",
+            "glob": "plugins/**/*.html",
+            "output": "/"
+          },
           { "input": "", "glob": "LICENSE", "output": "/" }
         ]
       },
